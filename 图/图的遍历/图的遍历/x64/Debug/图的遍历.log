@@ -1,0 +1,10 @@
+﻿  DFS.cpp
+  test01.cpp
+  正在生成代码...
+DFS.obj : error LNK2019: 无法解析的外部符号 "bool __cdecl is_emptys(struct ALQue &)" (?is_emptys@@YA_NAEAUALQue@@@Z)，函数 "void __cdecl ALQ_Pop(struct ALQue &,int &)" (?ALQ_Pop@@YAXAEAUALQue@@AEAH@Z) 中引用了该符号
+    已定义且可能匹配的符号上的提示:
+      "bool __cdecl is_emptys(struct ALQue const &)" (?is_emptys@@YA_NAEBUALQue@@@Z)
+DFS.obj : error LNK2019: 无法解析的外部符号 "bool __cdecl is_full(struct ALQue &)" (?is_full@@YA_NAEAUALQue@@@Z)，函数 "void __cdecl ALQ_Push(struct ALQue &,int const &)" (?ALQ_Push@@YAXAEAUALQue@@AEBH@Z) 中引用了该符号
+    已定义且可能匹配的符号上的提示:
+      "bool __cdecl is_full(struct ALQue const &)" (?is_full@@YA_NAEBUALQue@@@Z)
+C:\Users\86183\Desktop\学习\算法系统学习\图\图的遍历\x64\Debug\图的遍历.exe : fatal error LNK1120: 2 个无法解析的外部命令
