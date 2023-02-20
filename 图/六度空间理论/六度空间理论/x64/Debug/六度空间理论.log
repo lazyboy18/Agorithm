@@ -1,0 +1,3 @@
+﻿  Sixdegree.cpp
+C:\Users\86183\Desktop\学习\算法系统学习\六度空间理论\六度空间理论\Sixdegree.cpp(65,10): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+  六度空间理论.vcxproj -> C:\Users\86183\Desktop\学习\算法系统学习\六度空间理论\x64\Debug\六度空间理论.exe
